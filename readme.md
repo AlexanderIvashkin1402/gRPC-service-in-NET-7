@@ -1,1 +1,1 @@
-#Simple gRPC in .NET 7
+# Simple gRPC in .NET 7
